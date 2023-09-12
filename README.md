@@ -38,9 +38,9 @@ Link: https://github.com/raylib-extras/game-premake
 -----------------------------------------------------------------------------------------------------------------------------
 Setup:
 
-	Create an empty folder for your project
-	You can clone or download the files and the folder named game into your empty folder
-	Click on the premake-VisualStudio.bat file, and you are set to code!
+1. Create an empty folder for your project
+2. You can clone or download the files and the folder named game into your empty folder
+3. Click on the `setup.bat` file, and you are set to code!
 
 -----------------------------------------------------------------------------------------------------------------------------
 Links:  
